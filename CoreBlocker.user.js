@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         CoreBlocker
 // @namespace    http://tampermonkey.net/
-// @version      1.0
+// @version      1.5
 // @description  Need A Break From The Ads?
 // @author       Buster427
 // @match        https://www.youtube.com/*
@@ -12,7 +12,7 @@
 {
     //
     //      Config
-    //      Hey, just mentioning that this is an EDITED version of a script by JoelMatic, which adds more features including INSTANT adblock and YT has yet to detect it.
+   // Hello! Welcome To User Installer! Feel Free To Skip Ads!
 
     // Enable The Undetected Adblocker
     const adblocker = true;
